@@ -1,9 +1,64 @@
-<mxfile host="app.diagrams.net" modified="2024-01-24T01:10:36.201Z" agent="Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" version="23.0.0" etag="V52XQV1lQTnTJM2JnfBz" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-24T02:34:55.468Z" agent="Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="s32_LgAQYl8EKh--aqex" version="23.0.0" type="github">
   <diagram name="Page-1" id="J4uFjlaQboDc-oYEX2o8">
-    <mxGraphModel>
+    <mxGraphModel dx="1035" dy="541" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="isXmIjActsofj--1IzJH-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="isXmIjActsofj--1IzJH-30" target="isXmIjActsofj--1IzJH-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="isXmIjActsofj--1IzJH-30" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="137" y="247" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="isXmIjActsofj--1IzJH-31" value="USER" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="167" y="272" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="isXmIjActsofj--1IzJH-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="isXmIjActsofj--1IzJH-32" target="isXmIjActsofj--1IzJH-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="isXmIjActsofj--1IzJH-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="isXmIjActsofj--1IzJH-32" target="isXmIjActsofj--1IzJH-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="isXmIjActsofj--1IzJH-32" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="137" y="407" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="isXmIjActsofj--1IzJH-34" value="MENGISI FORM&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="164" y="432" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="isXmIjActsofj--1IzJH-37" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="137" y="596" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="isXmIjActsofj--1IzJH-39" value="DAFTAR PENGUNJUNG" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="167" y="621" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="isXmIjActsofj--1IzJH-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="isXmIjActsofj--1IzJH-41" target="isXmIjActsofj--1IzJH-45">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="476" y="447" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="isXmIjActsofj--1IzJH-41" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="339" y="407" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="isXmIjActsofj--1IzJH-43" value="MENCARI BUKU" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="370" y="403" width="60" height="97" as="geometry" />
+        </mxCell>
+        <mxCell id="isXmIjActsofj--1IzJH-45" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="581" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="isXmIjActsofj--1IzJH-47" value="SELESAI" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="445" y="608" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="isXmIjActsofj--1IzJH-55" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="isXmIjActsofj--1IzJH-41">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="255.99999999999773" y="638" as="sourcePoint" />
+            <mxPoint x="339" y="427" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="380" y="638" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
